@@ -25,7 +25,7 @@ SECRET_KEY = 'betsff(e3$v-n@gc53*afg^r36tiz$4#lujpjxub1!(@zkxfl9'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['52.197.9.79']
+ALLOWED_HOSTS = ['13.126.132.164']
 
 
 # Application definition
